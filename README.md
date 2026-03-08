@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Herculano! 👋 </h1>
 
 <p>
-    Desenvolvedor Java Fullstack desde 2020, com sólida experiência no planejamento, design e entrega de soluções de software.
+    Desenvolvedor Java Fullstack desde 2020, com experiência no planejamento, design e entrega de soluções de software.
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 - 🎓 Formado em Bacharelado em Ciência da Computação.
 - 💼 Desenvolvedor Java Fullstack desde 2020.
-- 🏗️ Apaixonado por arquitetar soluções de software.
+- 🏗️ Sempre buscando novas soluções e propondo a melhoria contínua do software que desenvolvo.
 - 📚 Atualmente estudando Arquitetura de Software, Domain-Driven Design (DDD) e Event-Driven Design (EDD).
 
 ## 🛠️ Tecnologias e Ferramentas
